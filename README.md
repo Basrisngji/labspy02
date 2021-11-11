@@ -18,5 +18,5 @@
 ![Gambar 4](screenshot/3.png)
 
 - Kondisi 3, angka 3 adalah angka terbesar<p>
-- Dengan input 3,2,1<p>
+- Dengan input 1,2,3<p>
 ![Gambar 5](screenshot/4.png)
